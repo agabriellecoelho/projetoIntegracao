@@ -1,0 +1,34 @@
+{
+    "contatos": [
+        {
+            "nome": "Gabi",
+            "telefone": "999999999",
+            "data": "",
+            "operadora": {
+                "nome": "Oi",
+                "codigo": 14,
+                "categoria": "Celular"
+            }
+        },
+        {
+            "nome": "Diogo",
+            "telefone": "888888888",
+            "data": "",
+            "operadora": {
+                "nome": "Vivo",
+                "codigo": 15,
+                "categoria": "Celular"
+            }
+        },
+        {
+            "nome": "Luca",
+            "telefone": "777777777",
+            "data": "",
+            "operadora": {
+                "nome": "Tim",
+                "codigo": 41,
+                "categoria": "Celular"
+            }
+        }
+    ]
+}
