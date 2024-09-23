@@ -1,0 +1,1 @@
+Front e Back AngularJS, javascript e node
